@@ -1,5 +1,14 @@
-### Hi there 
+# 👋 Olá!! Sou a Gabriella Maurea Bento!
 
+🌱 Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas no Senai.
+
+💻 Em 2022, participei do programa Entra21, onde aprimorei minhas habilidades em Java, Spring Boot, HTML, CSS, JavaScript e Angular. Esta experiência não apenas expandiu meu conhecimento técnico, mas também consolidou minha paixão pela tecnologia.
+
+🚀 Estou em constante busca por novos conhecimentos, desafios e experiências, impulsionada pela dedicação ao aprendizado contínuo. Minha jornada visa desenvolver-me não apenas como uma profissional de destaque, mas também como uma pessoa sempre em evolução.
+
+⚙️ Estou planejando desenvolver projetos relacionados ao desenvolvimento frontend para consolidar e pôr meus conhecimentos em prática, aprimorar minhas habilidades e criar novas experiências fundamentais para um constante progresso.    
+
+💬 Aberta a oportunidades de aprendizado e colaboração, estou ansiosa para contribuir com minha paixão pela tecnologia no mundo profissional.
 <!--
 **gabibento/gabibento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +23,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="display: inline_block"><br>
+## 🔧 Linguagens:
+<div style="display: inline-block">
 
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   
+
+
+<br>
 
 </div>
 
-  ##
+  ## 📫 Contato:
  
 <div> 
 
