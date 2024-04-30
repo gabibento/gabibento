@@ -1,28 +1,7 @@
-# 👋 Olá!! Sou a Gabriella Maurea Bento!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0578CA&random=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+a+Gabriella!)](https://git.io/typing-svg)
 
-🌱 Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas no Senai.
+Estou cursando técnico em Desenvolvimento de Sistemas e estou entusiasmada com as oportunidades que o mundo da tecnologia oferece. Atualmente, estou aprimorando minhas habilidades em **Java**, **JavaScript** e **React JS** para me tornar uma desenvolvedora web completa. Sou apaixonada por desenvolvimento web e estou sempre em busca de novos desafios e experiências que me permitam crescer como profissional, bem como explorar o mundo da tecnologia. 
 
-💻 Em 2022, participei do programa Entra21, onde aprimorei minhas habilidades em Java, Spring Boot, HTML, CSS, JavaScript e Angular. Esta experiência não apenas expandiu meu conhecimento técnico, mas também consolidou minha paixão pela tecnologia.
-
-🚀 Estou em constante busca por novos conhecimentos, desafios e experiências, impulsionada pela dedicação ao aprendizado contínuo. Minha jornada visa desenvolver-me não apenas como uma profissional de destaque, mas também como uma pessoa sempre em evolução.
-
-⚙️ Estou planejando desenvolver projetos relacionados ao desenvolvimento frontend para consolidar e pôr meus conhecimentos em prática, aprimorar minhas habilidades e criar novas experiências fundamentais para um constante crescimento.    
-
-💬 Aberta a oportunidades de aprendizado e colaboração, estou ansiosa para contribuir com minha paixão pela tecnologia no mundo profissional.
-<!--
-**gabibento/gabibento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🔧 Linguagens:
 <div style="display: inline-block;">
 
