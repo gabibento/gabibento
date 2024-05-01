@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0578CA&random=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+a+Gabriella!)](https://git.io/typing-svg)
 
-Estou cursando técnico em Desenvolvimento de Sistemas e estou entusiasmada com as oportunidades que o mundo da tecnologia oferece. Atualmente, estou aprimorando minhas habilidades em **Java**, **JavaScript** e **React JS** para me tornar uma desenvolvedora web completa. Sou apaixonada por desenvolvimento web e estou sempre em busca de novos desafios e experiências que me permitam crescer como profissional, bem como explorar o mundo da tecnologia. 
+Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, estou aprimorando minhas habilidades em **Java**, **JavaScript** e **React JS** para me tornar uma desenvolvedora web completa. Sou apaixonada por desenvolvimento web e estou sempre em busca de novos desafios e experiências que me permitam crescer como profissional, bem como explorar esse vasto mundo da tecnologia. 
 
 ### 🔧 Linguagens:
 <div style="display: inline-block;">
