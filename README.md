@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E2%8B%86%CB%9A%E2%9C%A7+Ol%C3%A1%2C+eu+sou+a+Gabriella!+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9" alt="Typing SVG" /></a>
 </div>
 
-Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, estou aprimorando minhas habilidades em **Java**, **JavaScript** e **React JS** para me tornar uma desenvolvedora web completa. Sou apaixonada por desenvolvimento web e estou sempre em busca de novos desafios e experiências que me permitam crescer como profissional, bem como explorar esse vasto mundo da tecnologia. 
+Atualmente estou trabalhando como Software Developer I na Senior Sistemas e cursando Ciência da Computação na Furb. 
 
 
 
