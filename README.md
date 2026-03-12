@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E2%8B%86%CB%9A%E2%9C%A7+Ol%C3%A1%2C+eu+sou+a+Gabriella!+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9" alt="Typing SVG" /></a>
 </div>
 
-Atualmente estou trabalhando como Software Developer I na Senior Sistemas e cursando Ciência da Computação na Furb. 
+Atualmente estou trabalhando como Software Developer I na Senior Sistemas e cursando Ciência da Computação na Furb. Tenho conhecimentos em Java, Spring, JavaScript, React e Angular. Estou sempre disposta a aprender e em busca de novos conhecimentos 
 
 
 
